@@ -4,4 +4,4 @@
 
 ## **Basic Work Flow of the project** 
 
-<a href="#"><img width="100%" height="./mad/Screenshot_1.png" height="175px"/></a>
+<a href="#"><img width="100%" height="./mda/Screenshot_1.png" height="175px"/></a>
