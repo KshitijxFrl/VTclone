@@ -4,7 +4,7 @@
 
 ## **Basic Work Flow of the project** 
 
-<img width="100%" height="./mda/Screenshot_1.png" height="175px"/></a>
+<img width="100%" height="./mda/workflow.jpg" height="175px"/></a>
 
 **Target Voice - Elone Musk🎤**
 
