@@ -26,6 +26,11 @@ The basic approach which was used to clone this is to provide the audio into the
 **Original Sample Audio🔊**
 
 
+https://github.com/KshitijxFrl/VTclone/assets/95994227/6d97cb84-bbaf-4a03-9e09-cccd15a829f2
+
+
+
+
 **Output Generated Audio(Hindi)🔊**
 
 
