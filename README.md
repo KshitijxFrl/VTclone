@@ -21,11 +21,22 @@ The basic approach which was used to clone this is to provide the audio into the
 > The reasone for using this hybrid method is purley to get the most human like voice. 
 
 ------------------------------------
+
+
 **Original Sample Audio🔊**
+
+
 **Output Generated Audio(Hindi)🔊**
+
+
 -------------------------------------
+
+
 **Original Song🔊**
+
+
 **Output Generated Audio (Song)🔊**
+
 
 
 This project was made by using google colab, personal hardware and multiple python scripts.
