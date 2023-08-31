@@ -44,6 +44,10 @@ https://github.com/KshitijxFrl/VTclone/assets/95994227/6d97cb84-bbaf-4a03-9e09-c
 
 
 
+https://github.com/KshitijxFrl/VTclone/assets/95994227/e95eb9ff-ede2-4671-b509-977abce26e5f
+
+
+
 🎯This project was made by using google colab, personal hardware and multiple python scripts.
 
 Dev Note:- For any query feel free to reach out 😄.
