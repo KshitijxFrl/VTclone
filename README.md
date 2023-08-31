@@ -39,6 +39,6 @@ The basic approach which was used to clone this is to provide the audio into the
 
 
 
-This project was made by using google colab, personal hardware and multiple python scripts.
+🎯This project was made by using google colab, personal hardware and multiple python scripts.
 
 Dev Note:- For any query feel free to reach out 😄.
