@@ -4,4 +4,4 @@
 
 ## **Basic Work Flow of the project** 
 
-<h1 align="center">Hello <img src="./mad/Screenshot_1" width="200px"></h1>
+<a href="#"><img width="100%" height="./mad/Screenshot_1.png" height="175px"/></a>
