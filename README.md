@@ -4,7 +4,7 @@
 
 ## **Basic Work Flow of the project💪** 
 
-<img width="100%" height="./mda/workflow.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="./mda/workflow.jpg" height="175px"/></a>
 
 ## **Target Voice🙎‍♂️ - Elone Musk🎤**
 
@@ -26,7 +26,7 @@ The basic approach which was used to clone this is to provide the audio into the
 
 ## **Links🔗**
 
-**so-vits-svc-fork->**
+**so-vits-svc-fork->** [https://github.com/voicepaw/so-vits-svc-fork]
 
 
 **so-vits-svc-fork(colab notebook)📖->** [https://colab.research.google.com/github/34j/so-vits-svc-fork/blob/main/notebooks/so-vits-svc-fork-4.0.ipynb#scrollTo=Ev4VsHv4Dgm-]
