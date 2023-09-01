@@ -24,7 +24,7 @@ The basic approach which was used to clone this is to provide the audio into the
 ------------------------------------
 
 
-**Original Sample Audio🔊**
+**🎵 Original Sample Audio🔊**
 
 
 https://github.com/KshitijxFrl/VTclone/assets/95994227/6d97cb84-bbaf-4a03-9e09-cccd15a829f2
@@ -32,16 +32,21 @@ https://github.com/KshitijxFrl/VTclone/assets/95994227/6d97cb84-bbaf-4a03-9e09-c
 
 
 
-**Output Generated Audio(Hindi)🔊**
+**🎵 Output Generated Audio(Hindi)🔊**
 
 
 -------------------------------------
 
 
-**Original Song🔊**
+**🎵 Original Song🔊**
 
 
-**Output Generated Audio (Song)🔊**
+https://github.com/KshitijxFrl/VTclone/assets/95994227/e3568131-0d88-4b27-8682-93de5a559e8a
+
+
+
+
+**🎵 Output Generated Audio (Song)🔊**
 
 
 
