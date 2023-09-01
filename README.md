@@ -73,4 +73,4 @@ https://github.com/KshitijxFrl/VTclone/assets/95994227/e95eb9ff-ede2-4671-b509-9
 
 🎯This project was made by using google colab, personal hardware and multiple python scripts.
 
-##**⭐Dev Note:- For any query feel free to reach out 😄.**
+## **⭐Dev Note:- For any query feel free to reach out 😄.**
