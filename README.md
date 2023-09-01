@@ -6,7 +6,7 @@
 
 <img width="100%" height="./mda/workflow.jpg" height="175px"/></a>
 
-**Target Voice🙎‍♂️ - Elone Musk🎤**
+## **Target Voice🙎‍♂️ - Elone Musk🎤**
 
 
 The basic approach which was used to clone this is to provide the audio into the **so-vits-svc-fork** model. This model was trained on our target voice data of Elone Musk for max of 827 epochs out of 9999 which is significantly low but enough to give a good idea about the entire model. Then text is extracted from the  **Original Sample Audio** and translated to hindi text using python scripts. Then that hindi text is provide to Bark and AI model which make human like speech using one of its preset voice. We save that translated voice and provide it to the **so-vits-svc-fork** and this time it regenrate that translated voice using Elone Musk voice 🎉🎉.
@@ -15,7 +15,7 @@ The basic approach which was used to clone this is to provide the audio into the
 
 
 
-**Imortant Points💡**
+## **Imortant Points💡**
 
 1) If the model **so-vits-svc-fork**  was trained for more epochs the results will be much better. Rember it is only 827 out of 9999 (827/9999).
 2) The reasone for using this hybrid method is purley to get the most human like voice.
@@ -24,7 +24,7 @@ The basic approach which was used to clone this is to provide the audio into the
 5) I am attaching the model weights in this repository so if some one wants to try **so-vits-svc-fork** with Elon Musk voice can try it.
 6) 🥇Please do check all the outputs 🙏🙏.
 
-**Links🔗**
+## **Links🔗**
 
 **so-vits-svc-fork->**
 
