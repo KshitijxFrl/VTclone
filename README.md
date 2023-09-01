@@ -36,6 +36,13 @@ https://github.com/KshitijxFrl/VTclone/assets/95994227/6d97cb84-bbaf-4a03-9e09-c
 **🎵 Output Generated Audio(Hindi)🔊**
 
 
+
+
+
+https://github.com/KshitijxFrl/VTclone/assets/95994227/e2d80b8a-fe9f-4424-b256-46edb5ae3fa8
+
+
+
 -------------------------------------
 
 
