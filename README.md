@@ -31,6 +31,9 @@ The basic approach which was used to clone this is to provide the audio into the
 
 **so-vits-svc-fork(colab notebook)📖->** [https://colab.research.google.com/github/34j/so-vits-svc-fork/blob/main/notebooks/so-vits-svc-fork-4.0.ipynb#scrollTo=Ev4VsHv4Dgm-]
 
+
+**Suno Bark🐶->** [https://github.com/suno-ai/bark]
+
 ------------------------------------
 
 
