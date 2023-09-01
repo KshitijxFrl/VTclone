@@ -17,7 +17,7 @@ The basic approach which was used to clone this is to provide the audio into the
 
 **Imortant Points💡**
 
-1) If the model **so-vits-svc-fork**  was trained for more epochs the results will be much better. Remeber it is only 827 out of 9999 (827/9999).
+1) If the model **so-vits-svc-fork**  was trained for more epochs the results will be much better. Rember it is only 827 out of 9999 (827/9999).
 2) The reasone for using this hybrid method is purley to get the most human like voice.
 3) I have attached the dataset used for this project which is created by me.
 4) Google Colab was used in order to save time and to deal with low hardware power.
