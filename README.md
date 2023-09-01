@@ -19,8 +19,10 @@ The basic approach which was used to clone this is to provide the audio into the
 
 1) If the model **so-vits-svc-fork**  was trained for more epochs the results will be much better. Remeber it is only 827 out of 9999 (827/9999).
 2) The reasone for using this hybrid method is purley to get the most human like voice.
-3) I am attaching the model weights in this repository so if some one wants to try **so-vits-svc-fork** with Elon Musk voice can try it.
-4) 🥇Please do check all the outputs 🙏🙏. 
+3) I have attached the dataset used for this project which is created by me.
+4) Google Colab was used in order to save time and to deal with low hardware power.
+5) I am attaching the model weights in this repository so if some one wants to try **so-vits-svc-fork** with Elon Musk voice can try it.
+6) 🥇Please do check all the outputs 🙏🙏. 
 
 ------------------------------------
 
