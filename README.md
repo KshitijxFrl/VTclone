@@ -22,7 +22,14 @@ The basic approach which was used to clone this is to provide the audio into the
 3) I have attached the dataset used for this project which is created by me.
 4) Google Colab was used in order to save time and to deal with low hardware power.
 5) I am attaching the model weights in this repository so if some one wants to try **so-vits-svc-fork** with Elon Musk voice can try it.
-6) 🥇Please do check all the outputs 🙏🙏. 
+6) 🥇Please do check all the outputs 🙏🙏.
+
+**Links🔗**
+
+**so-vits-svc-fork->**
+
+
+**so-vits-svc-fork(colab notebook)📖->** [https://colab.research.google.com/github/34j/so-vits-svc-fork/blob/main/notebooks/so-vits-svc-fork-4.0.ipynb#scrollTo=Ev4VsHv4Dgm-]
 
 ------------------------------------
 
