@@ -34,6 +34,14 @@ The basic approach which was used to clone this is to provide the audio into the
 
 **Suno Bark🐶->** [https://github.com/suno-ai/bark]
 
+
+## [Model Weights]🤖
+
+**G_800.pth->** https://drive.google.com/file/d/104TtDbFNpJnmT8zME_alUDr-0g5n8_UF/view?usp=sharing
+
+
+**D_800.pth->** https://drive.google.com/file/d/105fJbA7Jb6WUj9bkyVapIvETjbhkGF-6/view?usp=sharing
+
 ------------------------------------
 
 
