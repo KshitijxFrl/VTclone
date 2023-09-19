@@ -87,6 +87,9 @@ https://github.com/KshitijxFrl/VTclone/assets/95994227/e95eb9ff-ede2-4671-b509-9
 
 # 🚨 [VT Clone] Update:- 1.0.0.1
 
+This is the latest version of VTclone pipelien and this replaces the key model for the overlay component so-vits-svc to the latest model RVC which use ContentVec as its content encoder rather than HuBERT (ContentVec is a updated version HuBERT).
+
+
 
 
 
