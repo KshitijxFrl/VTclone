@@ -36,6 +36,8 @@ The basic approach which was used to clone this is to provide the audio into the
 
 **Suno Bark🐶->** [https://github.com/suno-ai/bark]
 
+**RVC ->** [https://colab.research.google.com/drive/1TU-kkQWVf-PLO_hSa2QCMZS1XF5xVHqs]
+
 
 ## [Model Weights]🤖
 
