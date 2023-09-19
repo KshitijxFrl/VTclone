@@ -85,16 +85,27 @@ https://github.com/KshitijxFrl/VTclone/assets/95994227/e95eb9ff-ede2-4671-b509-9
 
 
 
-# 🚨 [VT Clone] Update:- 1.0.0.1
+# 🚨 [VT Clone] Update:- 1.0.0.1 🏆
 
 ▶ This is the latest version of VTclone pipelien and this replaces the key model for the overlay component so-vits-svc to the latest model RVC which use ContentVec as its content encoder rather than HuBERT (ContentVec is a updated version HuBERT).
 
 
+**🎵 RVC Generated Audio(Hindi)🔊**
 
+https://github.com/KshitijxFrl/VTclone/assets/95994227/6019b1dc-5777-4428-b4d5-6b206ed93e8c
+
+
+**🎵 RVC Generated Audio(Hindi) + Pitch Pace Adjested 🔊**
 
 https://github.com/KshitijxFrl/VTclone/assets/95994227/a899e49b-236b-4701-9894-dfb09fbb2610
 
 
+[WEIGHTS]:- Will be provided soon.
+
+
+# Experimental 🧪 
+
+This section feature expermintal audio which is created by using modefied pipeline with different models with similar data.
 
 
 
