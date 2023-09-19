@@ -109,6 +109,10 @@ This section feature expermintal audio which is created by using modefied pipeli
 
 
 
+https://github.com/KshitijxFrl/VTclone/assets/95994227/903be8e2-3c14-43d0-9aef-459a7f7dd043
+
+
+
 
 🎯This project was made by using google colab, personal hardware and multiple python scripts.
 
